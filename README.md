@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jibrahimi60
-- 👀 I’m interested in creating new Azure Tenant.
+- 👀 I’m interested learning.
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
